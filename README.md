@@ -7,4 +7,4 @@
 <!---
 naufilmajid/naufilmajid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->hi im everyone just trying to improve my skills and intersted in to find a new ways to code in the coding world just a newbie developer in development world. 
+--->hi everyone just trying to improve my skills and intersted in to find a new ways to code in the coding world just a newbie developer in development world. 
